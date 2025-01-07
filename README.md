@@ -4,7 +4,7 @@ T-Shirt Logo Designer
 A dynamic and interactive T-shirt logo designer web application that allows users to upload, resize, and position a logo on a T-shirt. The final T-shirt design can be downloaded as an image.
 
 Live Demo
-🌐 Live Link: T-Shirt Logo Designer
+🌐 Live Link: https://tshirt-logo-setup.netlify.app/
 
 🚀 Features
 Upload any logo/image to overlay on a T-shirt.
